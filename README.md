@@ -1,3 +1,3 @@
 # Breast-Cancer-Survival-Analysis
-Herbaman Datasets
+Herbaman Datasets!
 This dataset has cases from a finding that was done between 1958 and 1970 at the university of chicago's Billings Hospital on the patients' survival that had undergone breast's cancer surgery. It contains age of patient at time of operation, patient's year of operation, number of positive axillary nodes detected and survival status. The status of the class label 1 indicate survival with at least 5 years of surgery's period while 2 indicate survival with at most 5 years of surgery's period respectively. The main point is to determine which feature(s) is the most important factor for survival patients.
